@@ -1,0 +1,18 @@
+6 lines (16 sloc)  275 Bytes
+
+{
+  "type": "crm-card",
+  "data": {
+    "title": "Simple form",
+    "location": "crm.record.tab",
+    "fetch": {
+      "targetFunction": "crm-card",
+      "objectTypes": [
+        {
+          "name": "contacts",
+          "propertiesToSend": []
+        }
+      ]
+    }
+  }
+}

@@ -2,12 +2,12 @@
   "type": "crm-card",
   "data": {
     "title": "Simple form",
-    "location": "crm.record.tab",
+    "location": "crm.record.sidebar",
     "fetch": {
       "targetFunction": "crm-card",
       "objectTypes": [
         {
-          "name": "contacts",
+          "name": "p678626_policy",
           "propertiesToSend": []
         }
       ]
